@@ -1,0 +1,13 @@
+The Shawshank Redemption,23-09-1994,9.3,Tim Robbins; Morgan Freeman
+The Godfather,24-03-1972,9.2,Marlon Brando; Al Pacino
+The Dark Knight,18-07-2008,9.0,Christian Bale; Heath Ledger
+12 Angry Men,10-04-1957,9.0,Henry Fonda; Lee J. Cobb
+Schindler's List,15-12-1993,8.9,Liam Neeson; Ralph Fiennes
+The Lord of the Rings: The Return of the King,17-12-2003,8.9,Elijah Wood; Viggo Mortensen
+Pulp Fiction,14-10-1994,8.9,John Travolta; Uma Thurman
+Fight Club,15-10-1999,8.8,Brad Pitt; Edward Norton
+Forrest Gump,06-07-1994,8.8,Tom Hanks; Robin Wright
+Matrix,31-03-1999,8.7,Keanu Reeves;Laurence Fishburne;Carrie-Anne Moss
+Mama,12-12-1222,9.0,La;La
+Laui,12-12-3232,8.0,Alo;Balo;Calo;Salo;Saki
+MiauMiau,09-09-1990,9.3,Miau;Ham;Woof;Meow

@@ -1,0 +1,35 @@
+1,Matrix,31-03-1999,8.7,Keanu Reeves;Laurence Fishburne;Carrie-Anne Moss
+2,Inception,16-07-2010,8.8,Leonardo DiCaprio;Joseph Gordon-Levitt;Ellen Page
+3,The Dark Knight,18-07-2008,9.0,Christian Bale;Heath Ledger;Aaron Eckhart
+4,Forrest Gump,06-07-1994,8.8,Tom Hanks;Robin Wright;Gary Sinise
+5,Gladiator,05-05-2000,8.5,Russell Crowe;Joaquin Phoenix;Connie Nielsen
+6,Avatar,18-12-2009,7.8,Sam Worthington;Zoe Saldana;Sigourney Weaver
+7,The Shawshank Redemption,14-10-1994,9.3,Tim Robbins;Morgan Freeman;Bob Gunton
+8,Titanic,19-12-1997,7.8,Leonardo DiCaprio;Kate Winslet;Billy Zane
+9,The Matrix Reloaded,15-05-2003,7.2,Keanu Reeves;Laurence Fishburne;Carrie-Anne Moss
+10,The Lion King,24-06-1994,8.5,Matthew Broderick;James Earl Jones;Jeremy Irons
+11,Jurassic Park,11-06-1993,8.1,Sam Neill;Laura Dern;Jeff Goldblum
+12,Avengers: Endgame,26-04-2019,8.4,Robert Downey Jr.;Chris Evans;Mark Ruffalo
+13,Fight Club,15-10-1999,8.8,Brad Pitt;Edward Norton;Helena Bonham Carter
+14,Interstellar,07-11-2014,8.6,Matthew McConaughey;Anne Hathaway;Jessica Chastain
+15,Jurassic World,12-06-2015,7.0,Chris Pratt;Bryce Dallas Howard;Vincent D'Onofrio
+16,The Godfather,24-03-1972,9.2,Marlon Brando;Al Pacino;James Caan
+17,Star Wars: A New Hope,25-05-1977,8.6,Mark Hamill;Harrison Ford;Carrie Fisher
+18,Avengers: Infinity War,27-04-2018,8.5,Robert Downey Jr.;Chris Hemsworth;Scarlett Johansson
+19,John Wick,24-10-2014,7.4,Keanu Reeves;Alfie Allen;Willem Dafoe
+20,John Wick: Chapter 2,10-02-2017,7.5,Keanu Reeves;Riccardo Scamarcio;Ian McShane
+21,John Wick: Chapter 3 Parabellum,17-05-2019,7.4,Keanu Reeves;Halle Berry;Laurence Fishburne
+22,Speed,10-11-1994,7.2,Keanu Reeves;Dennis Hopper;Sandra Bullock
+23,The Devil's Advocate,17-10-1997,7.5,Keanu Reeves;Al Pacino;Charlize Theron
+24,The Scanner Darkly,07-07-2006,7.1,Keanu Reeves;Robert Downey Jr.;Winona Ryder
+25,Constantine,18-02-2005,7.0,Keanu Reeves;Rachel Weisz;Tilda Swinton
+26,The Lord of the Rings: The Fellowship of the Ring,19-12-2001,8.8,Elijah Wood;Ian McKellen;Viggo Mortensen
+27,The Lord of the Rings: The Two Towers,18-12-2002,8.7,Elijah Wood;Ian McKellen;Viggo Mortensen
+28,The Lord of the Rings: The Return of the King,17-12-2003,8.9,Elijah Wood;Ian McKellen;Viggo Mortensen
+29,The Hobbit: An Unexpected Journey,14-12-2012,7.8,Martin Freeman;Ian McKellen;Richard Armitage
+30,The Hobbit: The Desolation of Smaug,13-12-2013,7.8,Martin Freeman;Ian McKellen;Richard Armitage
+31,The Hobbit: The Battle of the Five Armies,17-12-2014,7.4,Martin Freeman;Ian McKellen;Richard Armitage
+32,Green Lantern,17-06-2011,5.5,Ryan Reynolds;Blake Lively;Peter Sarsgaard
+33,Deadpool,12-02-2016,8.0,Ryan Reynolds;Morena Baccarin;T.J. Miller
+34,Deadpool 2,18-05-2018,7.7,Ryan Reynolds;Josh Brolin;Morena Baccarin
+35,6 Underground,13-12-2019,6.1,Ryan Reynolds;Melanie Laurent;Manuel Garcia-Rulfo

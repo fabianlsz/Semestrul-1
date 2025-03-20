@@ -1,0 +1,13 @@
+Fabian,19
+Otilia,20
+Andrei,18
+Andreea,20
+Bob,21
+Oana,20
+Tudor,22
+Diana,31
+Catalin,23
+Mircea,42
+Cristian,19
+Boogdan,30
+Sebi,19

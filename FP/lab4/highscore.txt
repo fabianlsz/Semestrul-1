@@ -1,0 +1,7 @@
+Alin:5
+Andrei:1
+Alfie:2
+mina:5
+Fabian:3
+sebastian:2
+malin:1
